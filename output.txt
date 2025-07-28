@@ -1,0 +1,4 @@
+------------------------------
+-> For the First test case the output is : The secret (constant term) is: 3
+------------------------------
+-> For the Second test case the output is : The secret (constant term) is: 79836264049851
